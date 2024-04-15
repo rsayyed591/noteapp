@@ -48,3 +48,7 @@ To run the app locally, follow these steps:
 ## Acknowledgements
 
 Special thanks to the developers of React Native, SQLite, and expo-sqlite for providing the tools necessary to build this application.
+
+## Credits
+
+This project was created by [Rehan Sayyed]. Feel free to contribute or report issues on the [GitHub repository](https://github.com/rsayyed591/noteapp.git).
